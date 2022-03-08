@@ -1,0 +1,10 @@
+person: what is your name
+    computer: Not sure. what is it?
+        person: It is $name
+        person: It shall be $name
+        person: I don't know either.
+
+
+computer: should I wake you up tomorrow?
+    person: nah
+    person: sure
